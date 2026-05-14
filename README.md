@@ -8,18 +8,29 @@ AI Voice Assistant Web Application
 
     Roll No: 2407370130040
 
-3. Ritesh Kumar
+2. Ritesh Kumar
 
    Roll No: 2407370130051
 
-4. Manish Yadav
+3. Manish Yadav
 
    Roll No:2407370130036
 
-5. Meraj Ali
+4. Meraj Ali
 
    Roll No:2407370130039
 
+5. Naresh Kumawat
+
+    Roll No: 2407370130044
+6. Utsav Tiwari
+
+   Roll No: 2407370130065
+
+7. Md. Haider Rizwi
+
+    Roll No: 2407370130041
+   
 # Project Work Summary
 
 The “AI Voice Assistant Web Application” is a smart web-based assistant developed using Python, Flask, HTML, CSS, and JavaScript. The project allows users to interact with the assistant through both text and voice input. The assistant can answer questions, provide information, and respond through voice output, creating a real-time conversational experience.
