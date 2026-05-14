@@ -5,19 +5,20 @@ AI Voice Assistant Web Application
 # Group Members
 
 1. Mohammad Asif
-   Roll No: _________
 
-2. ---
+    Roll No: 2407370130040
 
-   Roll No: __________
+3. Ritesh Kumar
 
-3. ---
+   Roll No: 2407370130051
 
-   Roll No: __________
+4. Manish Yadav
 
-4. ---
+   Roll No:2407370130036
 
-   Roll No: __________
+5. Meraj Ali
+
+   Roll No:2407370130039
 
 # Project Work Summary
 
