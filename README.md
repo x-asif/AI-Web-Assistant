@@ -1,36 +1,56 @@
 # Project Title
 
-AI Voice Assistant Web Application
+AI Voice Assistant Web Application : 
+ 
 
-# Group Members
+## 👥 Team Members
 
-1. Mohammad Asif
+This project was built collaboratively by a team of **8 members** from [Rajkiya Engineering College, Ambedkar Nagar](https://recabn.ac.in/).
 
-    Roll No: 2407370130040
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="profiles/asif.png" width="80" style="border-radius:50%;" /><br />
+      <b>Mohammad Asif</b><br />
+      <b>2407370130040</b>
+    </td>
+    <td align="center" width="150">
+      <img src="profiles/ritesh.png" width="80" style="border-radius:50%;" /><br />
+      <b>Ritesh Kumar</b><br />
+      <b>24073701300051</b>
+    </td>
+    <td align="center" width="150">
+      <img src="profiles/miraj.png" width="80" style="border-radius:50%;" /><br />
+      <b>Miraj Ali</b><br />
+      <b>2407370130039</b>
+    </td>
+    <td align="center" width="150">
+      <img src="profiles/manish.png" width="80" style="border-radius:50%;" /><br />
+      <b>Manish Yadav</b><br />
+      <b>2407370130036</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="profiles/naresh.png" width="80" style="border-radius:50%;" /><br />
+      <b>Naresh Kumawat</b><br />
+      <b>2407370130042</b>
+    </td>
+    <td align="center" width="150">
+      <img src="profiles/haider.png" width="80" style="border-radius:50%;" /><br />
+      <b>Mohammad Haider Rijvi</b><br />
+      <b>2407370130041</b>
+    </td>
+    <td align="center" width="150">
+      <img src="profiles/utsav.png" width="80" style="border-radius:50%;" /><br />
+      <b>Utsav Tiwari</b><br />
+      <b>2407370130065</b>
+    </td>
+  </tr>
+</table>
 
-2. Ritesh Kumar
+<p align="center"><em>B.Tech IT — Rajkiya Engineering College, Ambedkar Nagar</em></p>
 
-   Roll No: 2407370130051
-
-3. Manish Yadav
-
-   Roll No:2407370130036
-
-4. Meraj Ali
-
-   Roll No:2407370130039
-
-5. Naresh Kumawat
-
-    Roll No: 2407370130044
-6. Utsav Tiwari
-
-   Roll No: 2407370130065
-
-7. Md. Haider Rizwi
-
-    Roll No: 2407370130041
-   
 # Project Work Summary
 
 The “AI Voice Assistant Web Application” is a smart web-based assistant developed using Python, Flask, HTML, CSS, and JavaScript. The project allows users to interact with the assistant through both text and voice input. The assistant can answer questions, provide information, and respond through voice output, creating a real-time conversational experience.
